@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sreyajit
 - 👀 I’m interested in coding amd fitness
-- 🌱 I’m currently learning java,html,css,dbms
+- 🌱 I’m currently learning Full Stack Website development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
